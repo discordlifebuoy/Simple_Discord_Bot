@@ -4,7 +4,7 @@ Simple Discord bot, with discord.io library
 Bot implementation steps:
 
 1. Create a folder called **MyBot**
-2. Install *Library Node.js* via **CMD**: `pip install nodejs`
+2. Install *Node.js library* via **CMD**: `pip install nodejs`
 3. Type in CMD: `npm install`
 4. To get started, you need token, which you need to put in the **auth.json** file ([Early Access](https://discordapp.com/developers/applications/))
 5. When you have completed the steps, write to CMD: `node bot.js`
