@@ -1,5 +1,5 @@
 # Simple Discord Bot
-Simple Discord bot, with lib discord.io
+Simple Discord bot, with discord.io library
 
 Bot implementation steps:
 
