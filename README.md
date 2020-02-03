@@ -1,4 +1,4 @@
-# Discord_bot
+# Simple Discord Bot
 Simple Discord bot, with lib discord.js
 
 Bot implementation steps:
